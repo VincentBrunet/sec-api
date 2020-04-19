@@ -1,0 +1,26 @@
+{
+  "name": "sec-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@types/node": "^13.13.0",
+    "axios": "^0.19.2",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "knex": "^0.21.0",
+    "sqlite3": "^4.1.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentBrunet/sec-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VincentBrunet/sec-api/issues"
+  },
+  "homepage": "https://github.com/VincentBrunet/sec-api#readme"
+}
