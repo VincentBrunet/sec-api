@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "knex": "^0.21.0",
+    "knex": "^2.4.0",
     "sqlite3": "^4.1.1"
   },
   "scripts": {},
